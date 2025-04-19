@@ -2,7 +2,6 @@
 # 🏙️ NYC Airbnb Booking Analysis
 
 Welcome to the **NYC Airbnb Booking Analysis** project! This exploratory data analysis (EDA) dives into Airbnb listings across New York City to uncover trends, patterns, and insights from the dataset provided on Kaggle. The notebook explores various dimensions such as price distribution, neighborhood popularity, availability, and more.
-
 ---
 ![NYC-Map](data/New_York_City_.png)
 ## 🎥 Presentation Video
@@ -90,4 +89,15 @@ Launch Jupyter and open the notebook:
 ```bash
 jupyter notebook EDA_project_on_NYC_Airbnb_booking_analysis__Project_1_by_Data_Digest.ipynb
 ```
+## 🏅 Certificate & Credentials
+
+This project was completed as part of the **Data Science Program** by [**AlmaBetter Edutech Pvt. Ltd.**](https://www.almabetter.com).
+
+- **Credential Name**: NYC Airbnb Booking Analysis  
+- **Issued by**: AlmaBetter Edutech Pvt. Ltd.  
+- **Credential Owner**: Vishal Singh  
+- **Issue Date**: January 16, 2023  
+- **Credential Status**: Verified  
+- **Certificate Link**: [🔗 View Credential](https://verified.sertifier.com/en/verify/93136237554026/)  
+- **Expiration**: No expiry date
 
