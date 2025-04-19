@@ -29,7 +29,7 @@ This project aims to:
 ├── EDA_project_on_NYC_Airbnb_booking_analysis__Project_1_by_Data_Digest.ipynb
 ├── README.md
 └── data/
-    └── AB_NYC_2019.csv (to be added by the user)
+    └── Airbnb_NYC_2019.csv (to be added by the user)
 ```
 
 ---
