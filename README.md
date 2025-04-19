@@ -6,7 +6,7 @@ Welcome to the **NYC Airbnb Booking Analysis** project! This exploratory data an
 ---
 ## 🎥 Demo Video
 
-[![Watch Demo](https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](https://drive.google.com/file/d/1AbCDeFgHiJKlmNOPqrsTuVWxyz/view?usp=sharing)
+[![Watch Demo](https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](https://drive.google.com/file/d/18H-tJHEQQN6E7dcAIt5j-ToC1-4FAYEm/view?usp=share_link)
 
 Click the image above or [click here to watch the video](https://drive.google.com/file/d/18H-tJHEQQN6E7dcAIt5j-ToC1-4FAYEm/view?usp=share_link).
 
