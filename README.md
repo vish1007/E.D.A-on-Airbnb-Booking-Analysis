@@ -5,7 +5,7 @@ Welcome to the **NYC Airbnb Booking Analysis** project! This exploratory data an
 
 ---
 ![NYC-Map](data/New_York_City_.png)
-## 🎥 Demo Video
+## 🎥 Presentation Video
 
 [![Watch Demo](https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](https://drive.google.com/file/d/18H-tJHEQQN6E7dcAIt5j-ToC1-4FAYEm/view?usp=share_link)
 
