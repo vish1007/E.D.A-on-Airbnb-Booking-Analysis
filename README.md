@@ -1,2 +1,87 @@
-# E.D.A-on-Airbnb-Booking-Analysis
-This is the team captione project,here we have done E.D.A(Exploratory Data Analysis ) on Airbnb bookings.
+
+# 🏙️ NYC Airbnb Booking Analysis
+
+Welcome to the **NYC Airbnb Booking Analysis** project! This exploratory data analysis (EDA) dives into Airbnb listings across New York City to uncover trends, patterns, and insights from the dataset provided on Kaggle. The notebook explores various dimensions such as price distribution, neighborhood popularity, availability, and more.
+
+---
+
+## 📌 Project Overview
+
+This project aims to:
+
+- Perform data cleaning and preprocessing on the Airbnb NYC dataset.
+- Explore trends in pricing, availability, and neighborhood popularity.
+- Visualize insights using Python libraries like Seaborn, Matplotlib, and Plotly.
+- Highlight factors influencing price and booking behavior.
+
+---
+
+## 📂 Repository Structure
+
+```
+📁 NYC-Airbnb-EDA/
+├── EDA_project_on_NYC_Airbnb_booking_analysis__Project_1_by_Data_Digest.ipynb
+├── README.md
+└── data/
+    └── AB_NYC_2019.csv (to be added by the user)
+```
+
+---
+
+## 📊 Technologies & Libraries Used
+
+- **Python 3**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Plotly**
+- **Jupyter Notebook**
+
+---
+
+## 📈 Key Insights
+
+- Manhattan and Brooklyn dominate the Airbnb listings.
+- Price variation is highly skewed; most listings fall under $500.
+- Certain neighborhoods show higher price tendencies than others.
+- Room type plays a major role in price — entire homes/apartments cost significantly more.
+
+*More details are available in the notebook.*
+
+---
+
+## 📁 Dataset
+
+The dataset used in this analysis is available on Kaggle:
+[**NYC Airbnb Open Data**](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
+
+Make sure to download the `AB_NYC_2019.csv` file and place it in a `/data` folder within the project directory.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/NYC-Airbnb-EDA.git
+cd NYC-Airbnb-EDA
+```
+
+### 2. Install dependencies
+
+You can use pip or conda to install the required libraries.
+
+```bash
+pip install pandas numpy matplotlib seaborn plotly
+```
+
+### 3. Run the notebook
+
+Launch Jupyter and open the notebook:
+
+```bash
+jupyter notebook EDA_project_on_NYC_Airbnb_booking_analysis__Project_1_by_Data_Digest.ipynb
+```
+
