@@ -4,6 +4,7 @@
 Welcome to the **NYC Airbnb Booking Analysis** project! This exploratory data analysis (EDA) dives into Airbnb listings across New York City to uncover trends, patterns, and insights from the dataset provided on Kaggle. The notebook explores various dimensions such as price distribution, neighborhood popularity, availability, and more.
 
 ---
+[![NYC](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)]
 ## 🎥 Demo Video
 
 [![Watch Demo](https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](https://drive.google.com/file/d/18H-tJHEQQN6E7dcAIt5j-ToC1-4FAYEm/view?usp=share_link)
